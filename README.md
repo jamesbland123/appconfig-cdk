@@ -1,6 +1,6 @@
 # AWS AppConfig CDK Project
 
-This project creates an AWS AppConfig application with feature flags using AWS CDK.
+This is an example project that creates an AWS AppConfig application with feature flags using AWS CDK. Creates 2 test flags, attributes, and variants. There is also a free form configuration that that can be used by a backend to retrieve AppConfig info. 
 
 ## Resources Created
 
